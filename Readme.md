@@ -14,7 +14,7 @@ Excel版再要你命3000
 
 ## 校验信息
 
-MD5: C7ABB74AADA3FE74796B7DAE90D795E7
+MD5: A8D325127EA793DCD05CDD01767DDE51
 
 此MD5值总是由Master分支上最后一次Commit的xlsx文件生成。
 
@@ -63,8 +63,6 @@ L列'Paraphrase'为中文释义，多个释义之间用分号分隔，释义中�
 我的邮箱可以在Profile里找到，各种错误、排版瑕疵、建议等都可以通过这个邮箱联系我。
 
 ### Pull Request
-
-~~如果你想要提交一份Pull Request，请务必使用`CSV UTF-8 (Comma delimited) (*.csv)`生成一份csv文件，并将xlsx文件与之一同提交。~~
 
 如果你想要提交一份Pull Request，请直接提交'?'列为全0的xlsx文件。
 
