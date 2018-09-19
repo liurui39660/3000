@@ -68,7 +68,7 @@ L列'Paraphrase'为中文释义，多个释义之间用分号分隔，释义中�
 
 该版本由[cameron93lin](https://github.com/cameron93lin)贡献。
 
-该版本在`3000.xlsx`的基础上进行了改进。
+该版本在3000.xlsx的基础上进行了改进。
 
 将I列'Word'进行了加粗处理。
 
@@ -78,7 +78,7 @@ L列'Paraphrase'为中文释义，多个释义之间用分号分隔，释义中�
 
 该版本由[cameron93lin](https://github.com/cameron93lin)贡献。
 
-该版本在`3000(注释版).xlsx`的基础上进行了改进。
+该版本在3000(注释版).xlsx的基础上进行了改进。
 
 以10个单词为一组(unit)，通过点击K1单元格的“上一组”和“下一组”切换不同的组。
 
