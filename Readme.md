@@ -2,6 +2,8 @@
 
 Excel版再要你命3000
 
+![Screenshot1](Screenshot1.png)
+
 ## 基本信息
 
 原始文件出处：<https://forum.chasedream.com/thread-702976-1-1.html>，作者“我和葡萄”
