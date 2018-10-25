@@ -4,6 +4,8 @@ Excel版再要你命3000
 
 ![Screenshot1](Screenshot1.png)
 
+注意：实际的列宽比图片中大许多，该截图仅供展示用
+
 ## 基本信息
 
 原始文件出处：<https://forum.chasedream.com/thread-702976-1-1.html>，作者“我和葡萄”
@@ -18,7 +20,7 @@ Excel版再要你命3000
 
 |      文件名       |               MD5                |
 | ----------------- | -------------------------------- |
-| 3000.xlsx         | A8D325127EA793DCD05CDD01767DDE51 |
+| 3000.xlsx         | E070EC83D27640E4DE090B9C1633AAA5 |
 | 3000(注释版).xlsx | 6A030FFEDC7CACCA50F82E9928CEF887 |
 | 3000(宏版).xlsm   | 71C7BC49782B5A282B742EC473346229 |
 
@@ -62,9 +64,15 @@ J列'UK Phonetics'为英式音标，来自[音标网](http://www.yinbiao5.com/18
 
 K列'US Phonetics'为美式音标，来自[音标网](http://www.yinbiao5.com/18.html)，但是并不推荐使用，因为很多音标与词典出入较大。
 
-L列'Paraphrase'为中文释义，多个释义之间用分号分隔，释义中原有的分号不做处理。为了减小列宽，所有括号都替换为了英文括号；省略号都是三个点号。
+L列'Paraphrase'（隐藏）为中文释义，多个释义之间用分号分隔，释义中原有的分号不做处理。为了减小列宽，所有括号都替换为了英文括号；省略号不是三个点号。
+
+M列'Paraphrase (w/ POS)'为中文释义，与L列类似，但明确给出了释义的词性。
+
+N列'Paraphrase (English)'为英文释义，多个释义之间用分号分隔。
 
 ## 对3000(注释版).xlsx的说明
+
+**注意：该文件没有随3000.xlsx更新，等待贡献者跟进Pull Request**
 
 该版本由[cameron93lin](https://github.com/cameron93lin)贡献。
 
@@ -75,6 +83,8 @@ L列'Paraphrase'为中文释义，多个释义之间用分号分隔，释义中�
 将L列'Paraphrase'的内容隐藏到批注(comment)中，仅当指针移动到单元格时才会显示释义，避免提前看到下一个单词的释义。
 
 ## 对3000(宏版).xlsm的说明
+
+**注意：该文件没有随3000.xlsx更新，等待贡献者跟进Pull Request**
 
 该版本由[cameron93lin](https://github.com/cameron93lin)贡献。
 
