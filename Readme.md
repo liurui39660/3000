@@ -20,8 +20,8 @@ Excel版再要你命3000
 
 |      文件名       |               MD5                |
 | ----------------- | -------------------------------- |
-| 3000.xlsx         | E070EC83D27640E4DE090B9C1633AAA5 |
-| 3000(注释版).xlsx | 6A030FFEDC7CACCA50F82E9928CEF887 |
+| 3000.xlsx         | F936AA1781E69BE16791A0084A424581 |
+| 3000(注释版).xlsx | B448D7A3F95F4E63B711C936FE3EB392 |
 | 3000(宏版).xlsm   | 71C7BC49782B5A282B742EC473346229 |
 
 此MD5值总是由master分支上最后一次commit的文件生成。
@@ -72,10 +72,6 @@ N列'Paraphrase (English)'为英文释义，多个释义之间用分号分隔。
 
 ## 对3000(注释版).xlsx的说明
 
-**注意：该文件没有随3000.xlsx更新，等待贡献者跟进Pull Request**
-
-该版本由[cameron93lin](https://github.com/cameron93lin)贡献。
-
 该版本在3000.xlsx的基础上进行了改进。
 
 将I列'Word'进行了加粗处理。
@@ -84,9 +80,7 @@ N列'Paraphrase (English)'为英文释义，多个释义之间用分号分隔。
 
 ## 对3000(宏版).xlsm的说明
 
-**注意：该文件没有随3000.xlsx更新，等待贡献者跟进Pull Request**
-
-该版本由[cameron93lin](https://github.com/cameron93lin)贡献。
+**注意：该文件没有随3000.xlsx更新。**
 
 该版本在3000(注释版).xlsx的基础上进行了改进。
 
@@ -112,3 +106,11 @@ N列'Paraphrase (English)'为英文释义，多个释义之间用分号分隔。
 本项目暂时没有选择合适的许可证，可能会在后续的版本中进行更新。
 
 就目前而言，如果是个人使用，可以自由下载而不需额外的操作；但如果要转载，请在合适的位置标明本项目的作者信息和原始链接<https://github.com/liurui39660/3000>，当然你也可以向我发邮件，与我分享这个令人愉悦的消息。
+
+## 贡献者
+
+**贡献者按照时间先后顺序进行排列。**
+
+[cameron93lin](https://github.com/cameron93lin)贡献了注释版和宏版。
+
+[hongfalu](https://github.com/hongfalu)发现了原版中的顺序错误，并校正了原版和注释版中单词和释义的顺序。
